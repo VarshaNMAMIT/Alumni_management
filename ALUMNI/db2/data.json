@@ -1,0 +1,122 @@
+[ 
+	{ 
+		"id": 1001, 
+		"imageUrl": "fg.png", 
+		"firstName": "Varsha", 
+		"lastName": "gk", 
+		"email": "varsha@nmamit.com", 
+		"contactNumber": "4121091095", 
+		"age": 24, 
+		"dob": "26/08/2000", 
+		"salary": 1, 
+		"address": "Address1"
+	}, 
+	{ 
+		"id": 1002, 
+		"imageUrl": "gf.png", 
+		"firstName": "Sharanya", 
+		"lastName": "Kunder", 
+		"email": "sharanya12@nmamit.com", 
+		"contactNumber": "4914696673", 
+		"age": 23, 
+		"dob": "28/06/2001", 
+		"salary": 2, 
+		"address": "Address2"
+	}, 
+	{ 
+		"id": 1003, 
+		"imageUrl": "i1.png", 
+		"firstName": "Preksha", 
+		"lastName": "Jain", 
+		"email": "prekj@nmamit.com", 
+		"contactNumber": "4479795571", 
+		"age": 20, 
+		"dob": "06/01/2004", 
+		"salary": 3, 
+		"address": "Address3"
+	}, 
+	{ 
+		"id": 1004, 
+		"imageUrl": "i1.png", 
+		"firstName": "Melisa", 
+		"lastName": "Sindhu", 
+		"email": "Melisa.Schupp@nmamit.com", 
+		"contactNumber": "4443995334", 
+		"age": 38, 
+		"dob": "06/09/1984", 
+		"salary": 4, 
+		"address": "Address4"
+	}, 
+	{ 
+		"id": 1005, 
+		"imageUrl": "i3.png", 
+		"firstName": "fizz", 
+		"lastName": "Kris", 
+		"email": "Dell.Kris@nmamit.com", 
+		"contactNumber": "4505692843", 
+		"age": 89, 
+		"dob": "14/03/1933", 
+		"salary": 5, 
+		"address": "Address5"
+	}, 
+	{ 
+		"id": 1006, 
+		"imageUrl": "i4.png", 
+		"firstName": "Marcia", 
+		"lastName": "amla", 
+		"email": "Marcia@nmamit.com", 
+		"contactNumber": "4746199430", 
+		"age": 56, 
+		"dob": "24/07/1966", 
+		"salary": 6, 
+		"address": "Address6"
+	}, 
+	{ 
+		"id": 1007, 
+		"imageUrl": "i5.png", 
+		"firstName": "Swathi", 
+		"lastName": "Orbeez", 
+		"email": "Jarroy@nmamit.com", 
+		"contactNumber": "4859095720", 
+		"age": 82, 
+		"dob": "26/12/1940", 
+		"salary": 7, 
+		"address": "Address7"
+	}, 
+	{ 
+		"id": 1008, 
+		"imageUrl": "g.png", 
+		"firstName": "Shreya", 
+		"lastName": "Wilkinson", 
+		"email": "Gariol.Wilkinson@nmamit.com", 
+		"contactNumber": "4379190775", 
+		"age": 36, 
+		"dob": "24/06/1986", 
+		"salary": 8, 
+		"address": "Address8"
+	}, 
+	{ 
+		"id": 1009, 
+		"imageUrl": "fg.Png", 
+		"firstName": "Seema", 
+		"lastName": "Hayes", 
+		"email": "Elisabeth.Haye@nmamit.com", 
+		"contactNumber": "4394091994", 
+		"age": 66, 
+		"dob": "17/08/1956", 
+		"salary": 9, 
+		"address": "Address9"
+	}, 
+	{ 
+		"id": 1010, 
+		"imageUrl": "gf.png", 
+		"firstName": "akanksha", 
+		"lastName": "Reichel", 
+		"email": "Jaime.Reiche@nmamit.com", 
+		"contactNumber": "4622392580", 
+		"age": 41, 
+		"dob": "21/01/1981", 
+		"salary": 10, 
+		"address": "Address10"
+	} 
+]
